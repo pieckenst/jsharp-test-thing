@@ -1,0 +1,16 @@
+package ConsoleApplication1;
+
+
+/**
+ * Summary description for Program
+ */
+public class Program
+{
+	public static void main(String[] args)
+	{
+		System.Console.WriteLine("Welcome to J# - here is a mass effect quote for ya");
+		System.Console.WriteLine("Ah yes reapers , the immortal race of sentient starships allegedly waiting in dark space - we have dismissed this claim");
+		System.Console.ReadLine();
+		System.Windows.Forms.MessageBox.Show("Now this is a messagebox , yes yes");
+	}
+}
